@@ -27,14 +27,14 @@ const moduleInfo = {
   Flow: {
     icon: GitBranch,
     description: 'Materiais sobre automações e fluxos de atendimento.',
-    color: 'bg-black',
-    textColor:'text-green-500',
+    color: 'bg-green-500',
+    textColor:'text-black',
 
   },
   App: {
     icon: Smartphone,
     description: 'Guia de uso do nosso aplicativo para dispositivos móveis.',
-    color: 'bg-purple-800',
+    color: 'bg-pink-800',
     textColor:'text-yellow-400',
 
   },
